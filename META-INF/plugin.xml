@@ -3,11 +3,6 @@
   <vendor email="contacto@enriquepiatti.com" url="http://www.magicento.com">Enrique Piatti</vendor>
   <description><![CDATA[
     Plugin for Magento development
-    <br/>
-    Please read the full list of features with a brief explanation of how to use them here:
-    <br/><a href="http://www.magicento.com/#features">www.magicento.com/#features</a>
-    <br/>IMPORTANT! if the plugin is freezing/hanging the IDE please check:
-    <br/><a href="http://www.magicento.com/#faq-ide-broken">www.magicento.com/#faq-ide-broken</a>
   ]]></description>
   <idea-version since-build="117.105"/>
   <!--<idea-version since-build="129.196"/>-->
