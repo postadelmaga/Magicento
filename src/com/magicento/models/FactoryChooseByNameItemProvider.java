@@ -39,7 +39,9 @@ public class FactoryChooseByNameItemProvider extends DefaultChooseByNameItemProv
                                boolean everywhere,
                                Computable<Boolean> cancelled,
                                Processor<Object> consumer) {
-        String namePattern = getNamePattern(base, pattern);
+
+
+        String namePattern = getNamePattern(base.getModel(), pattern);
 
 
         List<String> classes = MagentoClassInfo.getNames(_magicentoProject.findClassesOfFactoryUri(pattern));

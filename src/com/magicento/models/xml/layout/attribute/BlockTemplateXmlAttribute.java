@@ -3,11 +3,11 @@ package com.magicento.models.xml.layout.attribute;
 import com.intellij.openapi.project.Project;
 import com.magicento.MagicentoSettings;
 import com.magicento.helpers.FileHelper;
-import com.magicento.models.layout.LayoutFile;
+//import com.magicento.models.layout.LayoutFile;
 import com.magicento.models.layout.Template;
-import com.magicento.models.xml.MagentoXmlAttribute;
+//import com.magicento.models.xml.MagentoXmlAttribute;
 import com.magicento.models.xml.layout.MagentoLayoutXml;
-import org.apache.tools.ant.util.FileUtils;
+//import org.apache.tools.ant.util.FileUtils;
 
 import java.io.File;
 import java.util.*;
